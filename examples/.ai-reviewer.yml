@@ -1,0 +1,13 @@
+model: claude-3-5-sonnet-20241022
+max_diff_lines: 800
+
+ignore_files:
+  - '*.lock'
+  - 'package-lock.json'
+  - '*.min.js'
+
+ignore_patterns:
+  - 'node_modules/'
+  - 'venv/'
+  - 'dist/'
+  - 'build/'
