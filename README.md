@@ -1,5 +1,8 @@
 # AI Code Reviewer
 
+![Python](https://img.shields.io/badge/python-3.11-blue) ![Claude](https://img.shields.io/badge/claude-AI-purple)
+
+
 A GitHub Action that reviews pull requests using Claude AI and posts the review as a comment.
 
 ## How It Works
