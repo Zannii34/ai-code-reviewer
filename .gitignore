@@ -7,3 +7,7 @@ venv/
 .DS_Store
 *.bak
 *.bak-*
+
+*.backup
+
+.pytest_cache/
